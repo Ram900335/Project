@@ -1,0 +1,6 @@
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_1_method1\Question_set_1_method\bin\Debug\Question_set_1_method.exe.config
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_1_method1\Question_set_1_method\bin\Debug\Question_set_1_method.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_1_method1\Question_set_1_method\bin\Debug\Question_set_1_method.pdb
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_1_method1\Question_set_1_method\obj\Debug\Question_set_1_method.csprojResolveAssemblyReference.cache
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_1_method1\Question_set_1_method\obj\Debug\Question_set_1_method.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_1_method1\Question_set_1_method\obj\Debug\Question_set_1_method.pdb

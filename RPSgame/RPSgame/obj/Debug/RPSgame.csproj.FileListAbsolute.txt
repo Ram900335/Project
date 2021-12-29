@@ -1,0 +1,7 @@
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\RPSgame\RPSgame\bin\Debug\RPSgame.exe.config
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\RPSgame\RPSgame\bin\Debug\RPSgame.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\RPSgame\RPSgame\bin\Debug\RPSgame.pdb
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\RPSgame\RPSgame\obj\Debug\RPSgame.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\RPSgame\RPSgame\obj\Debug\RPSgame.pdb
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\RPSgame\RPSgame\obj\Debug\RPSgame.csprojAssemblyReference.cache
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\RPSgame\RPSgame\obj\Debug\RPSgame.csproj.CoreCompileInputs.cache

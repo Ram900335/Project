@@ -1,0 +1,5 @@
+C:\Users\gowri\documents\visual studio 2012\Projects\HelloWorld1\envelope1\bin\Debug\envelope1.exe.config
+C:\Users\gowri\documents\visual studio 2012\Projects\HelloWorld1\envelope1\bin\Debug\envelope1.exe
+C:\Users\gowri\documents\visual studio 2012\Projects\HelloWorld1\envelope1\bin\Debug\envelope1.pdb
+C:\Users\gowri\documents\visual studio 2012\Projects\HelloWorld1\envelope1\obj\Debug\envelope1.exe
+C:\Users\gowri\documents\visual studio 2012\Projects\HelloWorld1\envelope1\obj\Debug\envelope1.pdb

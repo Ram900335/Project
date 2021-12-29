@@ -1,0 +1,6 @@
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Codechef\Codechef\bin\Debug\Codechef.exe.config
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Codechef\Codechef\bin\Debug\Codechef.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Codechef\Codechef\bin\Debug\Codechef.pdb
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Codechef\Codechef\obj\Debug\Codechef.csprojResolveAssemblyReference.cache
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Codechef\Codechef\obj\Debug\Codechef.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Codechef\Codechef\obj\Debug\Codechef.pdb

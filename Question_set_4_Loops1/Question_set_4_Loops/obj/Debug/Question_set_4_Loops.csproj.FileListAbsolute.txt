@@ -1,0 +1,7 @@
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_4_Loops1\Question_set_4_Loops\bin\Debug\Question_set_4_Loops.exe.config
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_4_Loops1\Question_set_4_Loops\bin\Debug\Question_set_4_Loops.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_4_Loops1\Question_set_4_Loops\bin\Debug\Question_set_4_Loops.pdb
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_4_Loops1\Question_set_4_Loops\obj\Debug\Question_set_4_Loops.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_4_Loops1\Question_set_4_Loops\obj\Debug\Question_set_4_Loops.pdb
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_4_Loops1\Question_set_4_Loops\obj\Debug\Question_set_4_Loops.csprojAssemblyReference.cache
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_4_Loops1\Question_set_4_Loops\obj\Debug\Question_set_4_Loops.csproj.CoreCompileInputs.cache
