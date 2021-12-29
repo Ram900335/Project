@@ -1,0 +1,6 @@
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_3.1\smallest_two_numbers_4\bin\Debug\smallest_two_numbers_4.exe.config
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_3.1\smallest_two_numbers_4\bin\Debug\smallest_two_numbers_4.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_3.1\smallest_two_numbers_4\bin\Debug\smallest_two_numbers_4.pdb
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_3.1\smallest_two_numbers_4\obj\Debug\smallest_two_numbers_4.csprojResolveAssemblyReference.cache
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_3.1\smallest_two_numbers_4\obj\Debug\smallest_two_numbers_4.exe
+C:\Users\gowri\OneDrive\Documents\Visual Studio 2012\Projects\Question_set_3.1\smallest_two_numbers_4\obj\Debug\smallest_two_numbers_4.pdb

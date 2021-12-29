@@ -1,0 +1,8 @@
+C:/Users/gowri/OneDrive/Documents/Visual Studio 2012/Projects/Question_set_3.1/Question_set_3/bin/Debug/Question_set_3.exe.config
+C:/Users/gowri/OneDrive/Documents/Visual Studio 2012/Projects/Question_set_3.1/Question_set_3/bin/Debug/Question_set_3.exe
+C:/Users/gowri/OneDrive/Documents/Visual Studio 2012/Projects/Question_set_3.1/Question_set_3/bin/Debug/Question_set_3.pdb
+C:/Users/gowri/OneDrive/Documents/Visual Studio 2012/Projects/Question_set_3.1/Question_set_3/obj/Debug/Question_set_3.csprojResolveAssemblyReference.cache
+C:/Users/gowri/OneDrive/Documents/Visual Studio 2012/Projects/Question_set_3.1/Question_set_3/obj/Debug/Question_set_3.exe
+C:/Users/gowri/OneDrive/Documents/Visual Studio 2012/Projects/Question_set_3.1/Question_set_3/obj/Debug/Question_set_3.pdb
+/media/gowri/Education/program1/c#/Projects/Question_set_3.1/Question_set_3/obj/Debug/Question_set_3.exe
+/media/gowri/Education/program1/c#/Projects/Question_set_3.1/Question_set_3/obj/Debug/Question_set_3.pdb
